@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+# Wordpress SvelteKit Web APp
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/wordpress-sveltekit/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+integrated wordpress with svelte kit
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+installation & documentation : [https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html](https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html)
 
-### Markdown
+![wordpress sveltekit website integrate API](https://blogger.googleusercontent.com/img/a/AVvXsEjq8nY91zL9cOLnh1X8gf8_3oiUh5rbEndWeblQG251WXAfJUITWV_4AxEteWH-p7cIoSJePj07pQjRoV_HhIKPghg1n0OPhiQpEu5sVn1_lxj62XtbVwiagwDh0PMzhzmev6a3s6GyEFYly-FKYWYHBWeteBCBuJG1ySN7FzwiOr30lGCFj53oTLL29w=s1920)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+installation & documentation : [https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html](https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html)
 
-```markdown
-Syntax highlighted code block
+For wordpress themes template you can download on : [https://github.com/mesinkasir/wordpress-themes](https://github.com/mesinkasir/wordpress-themes)
 
-# Header 1
-## Header 2
-### Header 3
+--------------------------------------------------------
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+![wordpress sveltekit website integrate API](https://blogger.googleusercontent.com/img/a/AVvXsEjh1O76fPta-yrpf2N_CWEm8AtfONsJLRjNBhCfMsJdpPMFtFg5PL9d8hYtWCSevCxNwhvUc7Ssx1D5sdNztl4xc-mD64P8Xh7qGY3yXy_nQT8RTx3kZ-sNDYmxJgNQ6yXMzTjlyGV71HnqNaDiLrd--1ogUJZnCR37eGcfHpB7xvlU_ifhIKqsgfC_FQ=s1349)
 
-**Bold** and _Italic_ and `Code` text
+Home area
 
-[Link](url) and ![Image](src)
-```
+![wordpress sveltekit website integrate API](https://blogger.googleusercontent.com/img/a/AVvXsEjIOthdpftQN50cEJQ1RAL07KkzcWnG04Ev40VN9wi7UDEYvaVrEqNOQNN3IRQshNA1tdsM0jfePd5c3RRbffv-M3ZfumUTwqdvwjqWeZHsCCbEVHKzPnhboEeXFYYxK4yRIBvD8Gsn2w3BMF-PYtwtyY8pFnTuQx17JDqXSJKmhuip3QOBSY7170KZMw=s1349)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Blog area
 
-### Jekyll Themes
+![wordpress sveltekit website integrate API](https://blogger.googleusercontent.com/img/a/AVvXsEiJmlZZhC9_C6hD6Jvp7ess5OVihAAtlC1Olw9TswJ39645YXqTDWubKPpKRf_0vMnkQbDDnaDND3eI4r4vCGEk7CckSJ_b4seH0wYVxnUDGwmXpzwasCAsOzw2OAWl6kEHwCLZ_FlcvT6zTQ8V4g4hWWuo6Fm3k8iu8EfDVy8iqacZTGkmXpzhgqoZXA=s1349)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/wordpress-sveltekit/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Page area
 
-### Support or Contact
+![wordpress sveltekit website integrate API](https://1.bp.blogspot.com/-jmEIYHfkhdU/YbLZYed48RI/AAAAAAAASNQ/OuT5KT51p9ci9uMVKa9BuIQt7Vcxqlj7wCNcBGAsYHQ/s2685/tema%2Bwordpress%2BSEO%2Bthemes%2Btemplate%2Bfree%2Bdownload%2Bsource%2Bcode%2Bgratis%2B%25281%2529.jpeg)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Wordpress web
+
+
+
+--------------------------------------------------------
+
+
+installation & documentation : [https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html](https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html)
+
+For wordpress themes template you can download on : [https://github.com/mesinkasir/wordpress-themes](https://github.com/mesinkasir/wordpress-themes)
+
+------------------------------------------------
+
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
