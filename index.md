@@ -4,9 +4,18 @@ integrated wordpress with svelte kit
 
 installation & documentation : [https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html](https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html)
 
+Demo Frontend : [https://wordpresssveltekit.vercel.app/](https://wordpresssveltekit.vercel.app/)
+
+Wordpress web : [https://axcora.my.id/wordpress](https://axcora.my.id/wordpress)
+
 ![wordpress sveltekit website integrate API](https://blogger.googleusercontent.com/img/a/AVvXsEjq8nY91zL9cOLnh1X8gf8_3oiUh5rbEndWeblQG251WXAfJUITWV_4AxEteWH-p7cIoSJePj07pQjRoV_HhIKPghg1n0OPhiQpEu5sVn1_lxj62XtbVwiagwDh0PMzhzmev6a3s6GyEFYly-FKYWYHBWeteBCBuJG1ySN7FzwiOr30lGCFj53oTLL29w=s1920)
 
 installation & documentation : [https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html](https://www.hockeycomputindo.com/2021/12/wordpress-sveltekit-integration-api.html)
+
+
+Demo Frontend : [https://wordpresssveltekit.vercel.app/](https://wordpresssveltekit.vercel.app/)
+
+Wordpress web : [https://axcora.my.id/wordpress](https://axcora.my.id/wordpress)
 
 For wordpress themes template you can download on : [https://github.com/mesinkasir/wordpress-themes](https://github.com/mesinkasir/wordpress-themes)
 
